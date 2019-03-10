@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CarRegistration</string>
+    <string name="register_button">REGISTER CAR</string>
+    <string name="brand_hint">Car brand</string>
+    <string name="convertible">Convertible</string>
+    <string name="electric_car">Is the car an electric car?</string>
+    <string name="electric_type_yes">Yes</string>
+    <string name="electric_type_hybrid">Hybrid</string>
+    <string name="electric_type_no">No</string>
+    <string name="submit">Submit</string>
+    <string name="electric">Electric</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="nonelectric">Non-Electric</string>
+</resources>
